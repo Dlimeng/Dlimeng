@@ -9,8 +9,7 @@ I am a community development activist, and now I mainly research technologies re
 
 - 🔭 &nbsp; I am open source ETL tools and digital twin tools
 - 🤝 &nbsp; I participate in Linkis community contributions
-- 🌱 &nbsp; I participate in Seatunnel community contributions
-- 👨🏻‍💻 &nbsp; I participate in Kyuubi community contribution
+- 👨🏻‍💻 &nbsp; I participate in Kyuubi community contributions
 - 🎨 &nbsp; Email mengyoupanshan@gmail.com
 <br>
 
