@@ -16,7 +16,7 @@ I am a community development activist, and now I mainly research technologies re
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href=''>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Dlimeng&show_icons=true)
 
