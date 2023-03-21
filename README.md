@@ -7,7 +7,7 @@ I am a community development activist, and now I mainly research technologies re
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I am open source 3D data visualization
+- 🔭 &nbsp; I participate in [SolidUI](https://github.com/CloudOrc/SolidUI) community contributions
 - 🤝 &nbsp; I participate in Linkis community contributions
 - 👨🏻‍💻 &nbsp; I participate in Seatunnel community contributions
 - 🎨 &nbsp; Email mengyoupanshan@gmail.com
