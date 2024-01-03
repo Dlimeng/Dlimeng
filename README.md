@@ -1,16 +1,17 @@
 ## Hey 👋, I'm Meng Li
-<a href='https://blog.csdn.net/qq_19968255?type=blog'><img align='left' alt="csdn" src="img/csdn.png" height='18px'/></a>
-<a href='https://www.youtube.com/@dlimeng'><img align='left' alt="youtube" src="img/youtube.png" height='18px'/></a>
+
 <br/>
-I am a community development activist, and now I mainly research technologies related to big data computing and AI models, and participate in the construction of related communities.
+独立开源创作者，参与了很多项目共建。
 <br/>
 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I participate in [SolidUI](https://github.com/CloudOrc/SolidUI) community contributions
-- 🤝 &nbsp; I participate in [Linkis](https://github.com/apache/linkis) community contributions
-- 🎨 &nbsp; Email mengyoupanshan@gmail.com
+- 🔭 I participate in [SolidUI](https://github.com/CloudOrc/SolidUI) community contributions
+- 🤝 I participate in [Linkis](https://github.com/apache/linkis) community contributions
+- 🎨 Email mengyoupanshan@gmail.com
+- 💬 WeChat: mengyoupanshan
+- ⚒ More social media: [CSDN](https://limeng.blog.csdn.net/)  / [知乎](https://www.zhihu.com/people/dlimeng) / [公众号: dlimeng] / [twitter](https://twitter.com/dlimeng192048) / [youtube](https://www.youtube.com/@dlimeng)
 <br>
 
 
