@@ -1,8 +1,13 @@
 ## Hey 👋, I'm Meng Li
 
-<br/>
-独立开源创作者，参与了很多项目共建。
-<br/>
+I have been involved in AI development work since ten years ago, starting from user growth, BI, to later big data platforms, knowledge graphs, AI platforms, I have walked step by step, accumulating rich experience.
+
+In 2018, I joined the WeDataSphere open source community, and together with like-minded partners, we co-created projects such as DataSphereStudio, Exchangis, Streamis, etc. These projects gave me a deeper understanding of the open source community and also allowed me to meet many interesting friends.
+
+At the same time, I am also a lecturer for Apache Asia, Hadoop Meetup, WeDataSphere Meetup, and an Apache Linkis Committer. These experiences have given me the opportunity to share my knowledge and experience with more people and have also allowed me to learn a lot.
+
+Since March 2023, I have started as an independent open source engineer, launching the SolidUI AI painting open source project on GitHub.
+
 
 
 ### 🧐 More About Me:
