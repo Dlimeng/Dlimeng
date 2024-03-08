@@ -23,13 +23,13 @@ Since March 2023, I have started as an independent open source engineer, launchi
 ### 📊 Github Stats
 <a href=''>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Dlimeng&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=dlimeng&show_icons=true)
 
 </a>
 
 <br>
 <p>
-    <a href="https://qiufeng.blue/">
+    <a href="">
       <img src="https://github-profile-trophy.vercel.app/?username=dlimeng&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
     </a>
 </p>
