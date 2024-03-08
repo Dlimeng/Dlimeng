@@ -16,7 +16,7 @@ Since March 2023, I have started as an independent open source engineer, launchi
 - 🤝 I participate in [Linkis](https://github.com/apache/linkis) community contributions
 - 🎨 Email dlimeng@apache.org
 - 💬 WeChat: mengyoupanshan
-- ⚒ More social media: [CSDN](https://limeng.blog.csdn.net/)  / [zhihu](https://www.zhihu.com/people/dlimeng) / [公众号: dlimeng] / [twitter](https://twitter.com/dlimeng192048) / [youtube](https://www.youtube.com/@dlimeng)
+- ⚒ More social media: [CSDN](https://limeng.blog.csdn.net/)  / [zhihu](https://www.zhihu.com/people/dlimeng) / [公众号: 李孟聊AI] / [twitter](https://twitter.com/dlimeng192048) / [youtube](https://www.youtube.com/@dlimeng)
 <br>
 
 
